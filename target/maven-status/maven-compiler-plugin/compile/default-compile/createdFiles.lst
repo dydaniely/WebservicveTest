@@ -1,0 +1,14 @@
+com\lititzeRepo\Interface\Controller\ArticleController.class
+com\lititzeRepo\Interface\Controller\DefaultController.class
+com\lititzeRepo\Interface\Domain\Customer.class
+com\lititzeRepo\Interface\Domain\Article.class
+com\lititzeRepo\Interface\Domain\Account.class
+com\lititzeRepo\Interface\DAO\CustomerDAO.class
+com\lititzeRepo\Interface\DAO\ICustomerDAO.class
+com\lititzeRepo\Interface\DAO\ArticleDAO.class
+com\lititzeRepo\Interface\Service\ArticleService.class
+com\lititzeRepo\Interface\Domain\Payment.class
+com\lititzeRepo\Interface\Service\IArticleService.class
+com\lititzeRepo\Interface\Domain\Policy.class
+Application.class
+com\lititzeRepo\Interface\DAO\IArticleDAO.class
