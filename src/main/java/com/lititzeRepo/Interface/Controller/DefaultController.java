@@ -11,7 +11,7 @@ public class DefaultController {
     public DefaultController() {
     }
 
-    @GetMapping("/home")
+    @GetMapping("/")
     String home(){
         return "Lititz Smart information Repository";
     }

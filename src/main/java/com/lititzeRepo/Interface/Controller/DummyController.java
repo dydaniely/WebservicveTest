@@ -8,15 +8,9 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
-@Controller
+@RestController
 @RequestMapping("user")
 public class DummyController {
 
@@ -37,6 +31,7 @@ private IArticleService articleService;
 		return new ResponseEntity<Article>(article, HttpStatus.OK);
 	}
 	@GetMapping("articles")
+	@ResponseBody
 	public ResponseEntity<List<Article>> getAllArticles() {
 		List<Article> list = articleService.getAllArticles();
 		return new ResponseEntity<List<Article>>(list, HttpStatus.OK);

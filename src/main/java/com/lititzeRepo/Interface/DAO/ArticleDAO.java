@@ -13,12 +13,11 @@ import org.springframework.transaction.annotation.Transactional;
 public class ArticleDAO implements IArticleDAO {
 	@PersistenceContext	
 	private EntityManager entityManager;
-
-
 	@Override
 	public Article getArticleById(int articleId) {
 		return entityManager.find(Article.class, articleId);
 	}
+
 	@SuppressWarnings("unchecked")
 	@Override
 	public List<Article> getAllArticles() {

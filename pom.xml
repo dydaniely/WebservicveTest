@@ -7,7 +7,6 @@
     <groupId>LititzeRepo</groupId>
     <artifactId>LititzeRepo</artifactId>
     <version>1.0</version>
-
     <packaging>jar</packaging>
     <name>Litize-Data-Repository</name>
     <description>Lititz data repository and interface</description>
