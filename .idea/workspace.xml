@@ -7,10 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78b3031b-382d-44ce-bd67-fa633b1ae8da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Application.class" afterPath="$PROJECT_DIR$/target/classes/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Controller/DummyController.class" afterPath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Controller/DummyController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/DAO/ArticleDAO.class" afterPath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/DAO/ArticleDAO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Service/ArticleService.class" afterPath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Service/ArticleService.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -134,8 +130,8 @@
       <file leaf-file-name="DummyController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Controller/DummyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="68">
+              <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -202,6 +198,14 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <push-targets>
+      <push-target-info target-remote="origin" target-branch="master" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -575,7 +579,7 @@
       <workItem from="1502712840784" duration="7976000" />
       <workItem from="1502798947636" duration="1844000" />
       <workItem from="1503001005207" duration="1974000" />
-      <workItem from="1503060738085" duration="8602000" />
+      <workItem from="1503060738085" duration="9216000" />
     </task>
     <task id="LOCAL-00001" summary="intital">
       <created>1503002893431</created>
@@ -623,7 +627,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29901000" />
+    <option name="totallyTimeSpent" value="30515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -1191,8 +1195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Controller/DummyController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="68">
+          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
           <folding />
         </state>
       </provider>
