@@ -11,15 +11,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Controller/DummyController.class" afterPath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Controller/DummyController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/DAO/ArticleDAO.class" afterPath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/DAO/ArticleDAO.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Service/ArticleService.class" afterPath="$PROJECT_DIR$/target/classes/com/lititzeRepo/Interface/Service/ArticleService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Application.java" afterPath="$PROJECT_DIR$/src/main/java/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Controller/DefaultController.java" afterPath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Controller/DefaultController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Controller/DummyController.java" afterPath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Controller/DummyController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/DAO/ArticleDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/DAO/ArticleDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Service/ArticleService.java" afterPath="$PROJECT_DIR$/src/main/java/com/lititzeRepo/Interface/Service/ArticleService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/LititzRepo/client/RestClientUtil.java" afterPath="$PROJECT_DIR$/src/test/java/com/LititzRepo/client/RestClientUtil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -583,7 +575,7 @@
       <workItem from="1502712840784" duration="7976000" />
       <workItem from="1502798947636" duration="1844000" />
       <workItem from="1503001005207" duration="1974000" />
-      <workItem from="1503060738085" duration="8491000" />
+      <workItem from="1503060738085" duration="8520000" />
     </task>
     <task id="LOCAL-00001" summary="intital">
       <created>1503002893431</created>
@@ -606,11 +598,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503003158104</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="intital">
+      <created>1503089135773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503089135773</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29790000" />
+    <option name="totallyTimeSpent" value="29819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
