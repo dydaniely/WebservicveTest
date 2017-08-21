@@ -27,7 +27,7 @@ public class RestClientUtil {
 		HttpHeaders headers = new HttpHeaders();
 		headers.setContentType(MediaType.APPLICATION_JSON);
         RestTemplate restTemplate = new RestTemplate();
-	    String url = "http://localhost:8080/LititzeRepo/user/articles";
+	    String url = "http://localhost:8080/user/articles";
         HttpEntity<String> requestEntity = new HttpEntity<String>(headers);
         ResponseEntity<Article[]> responseEntity = restTemplate.exchange(url, HttpMethod.GET, requestEntity, Article[].class);
         Article[] articles = responseEntity.getBody();
@@ -40,7 +40,7 @@ public class RestClientUtil {
     	HttpHeaders headers = new HttpHeaders();
     	headers.setContentType(MediaType.APPLICATION_JSON);
         RestTemplate restTemplate = new RestTemplate();
-	    String url = "http://localhost:8080/LititzeRepo/user/article";
+	    String url = "http://localhost:8080/user/article";
 	    Article objArticle = new Article();
 	    objArticle.setTitle("Spring REST Security using Hibernate");
 	    objArticle.setCategory("Spring");
